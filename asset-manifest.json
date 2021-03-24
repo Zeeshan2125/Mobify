@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Mobify/static/css/main.dc0ec4f4.chunk.css",
-    "main.js": "/Mobify/static/js/main.c1689409.chunk.js",
-    "main.js.map": "/Mobify/static/js/main.c1689409.chunk.js.map",
+    "main.css": "/Mobify/static/css/main.e4d05533.chunk.css",
+    "main.js": "/Mobify/static/js/main.1750b128.chunk.js",
+    "main.js.map": "/Mobify/static/js/main.1750b128.chunk.js.map",
     "runtime-main.js": "/Mobify/static/js/runtime-main.6f76be37.js",
     "runtime-main.js.map": "/Mobify/static/js/runtime-main.6f76be37.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/Mobify/static/css/2.4c97ca4f.chunk.css",
@@ -12,15 +12,15 @@
     "static/js/3.1f766de5.chunk.js.map": "/Mobify/static/js/3.1f766de5.chunk.js.map",
     "index.html": "/Mobify/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/Mobify/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.dc0ec4f4.chunk.css.map": "/Mobify/static/css/main.dc0ec4f4.chunk.css.map",
+    "static/css/main.e4d05533.chunk.css.map": "/Mobify/static/css/main.e4d05533.chunk.css.map",
     "static/js/2.735b1ebe.chunk.js.LICENSE.txt": "/Mobify/static/js/2.735b1ebe.chunk.js.LICENSE.txt",
-    "static/media/logo.0e80df4a.png": "/Mobify/static/media/logo.0e80df4a.png"
+    "static/media/logo.0e80df4a.PNG": "/Mobify/static/media/logo.0e80df4a.PNG"
   },
   "entrypoints": [
     "static/js/runtime-main.6f76be37.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.735b1ebe.chunk.js",
-    "static/css/main.dc0ec4f4.chunk.css",
-    "static/js/main.c1689409.chunk.js"
+    "static/css/main.e4d05533.chunk.css",
+    "static/js/main.1750b128.chunk.js"
   ]
 }
